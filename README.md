@@ -5,7 +5,7 @@
 
 - Created - 2024-12-21
 
-- Technologies Used - Html , css ,tailwind,js
+- Technologies Used - Html , css , tailwind , js
 - 
 - Role - Frontend
 
