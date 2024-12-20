@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.r{
+    transform: translateX(10000px);
+    transition: 1s ease-out;
+}
+.l{
+    transform: translateX(-10000px);
+    transition: 1s ease-out;
+}
+.bot{
+    transform: translateY(-10000px);
+    transition: 1s ease-out;
+}
+.top{
+    transform: translateY(10000px);
+    transition: 1s ease-out;
+}
+.dis{
+   transform: rotateX(90deg);
+    transition: 1s ease-out;
+}
+.heid{
+    transform: rotateY(90deg);
+    transition: 1s ease-out;
+}
